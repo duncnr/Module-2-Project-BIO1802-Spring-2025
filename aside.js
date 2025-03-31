@@ -81,7 +81,7 @@ class Aside {
     SelectClade(c, r) {
         const node = this.getCDesNode(c, r);
         this.sscpar.text(node.data.cdes)
-            .style('font-size', '21px');
+            .style('font-size', '20px');
     }
 
     UnselectHomology() {
