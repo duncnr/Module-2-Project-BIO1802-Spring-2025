@@ -97,7 +97,7 @@ class Legend {
             .attr('fill', 'black')
             .attr('text-anchor', 'middle')
             .text(d => d)
-            .style('font-size', '16px')
+            .style('font-size', '13px')
             .style('alignment-baseline', 'middle')
             
             // clade legend
@@ -136,7 +136,7 @@ class Legend {
             .attr('fill', 'black')
             .attr('text-anchor', 'middle')
             .text(d => d)
-            .style('font-size', '16px')
+            .style('font-size', '12px')
             .style('alignment-baseline', 'middle');
     }
 
