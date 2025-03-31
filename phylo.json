@@ -1,0 +1,142 @@
+{
+    "id": 0,
+    "kingdom": "Plantae",
+    "children": [
+        {
+            "id": 1,
+            "phylum": "Glaucophyta"
+        },
+        {
+            "id": 2,
+            "phylum": "Rhodophyta"
+        },
+        {
+            "id": 3,
+            "order": "Green Algae",
+            "division": "Green Plants",
+            "cdes": "Green algae are the aquatic ancestors of land plants, forming a diverse group that includes unicellular, colonial, and multicellular species. They share key traits with land plants, such as chlorophyll a and b for photosynthesis, starch as an energy reserve, and cellulose-based cell walls. Most have simple lifecycles dominated by the haploid phase, with some species exhibiting alternation of generations. Unlike land plants, they lack true roots, stems, and leaves, relying on direct water absorption for survival. Some green algae, like Chara and Coleochaete, have specialized reproductive structures, suggesting an evolutionary bridge to land plants.",
+            "hdes": "The green plant lineage includes both green algae and land plants, united by their use of chlorophyll a and b for photosynthesis, cellulose in their cell walls, and starch as a storage molecule. However, while green algae remained in aquatic environments, streptophyte algae evolved traits that preadapted them for land life, such as plasmodesmata for cell communication and sporopollenin-coated spores for desiccation resistance. These innovations laid the groundwork for the colonization of land.",
+            "children": [
+                {
+                    "id": 4,
+                    "phylum": "Ulvophyceae"
+                },
+                {
+                    "id": 5,
+                    "phylum": "Charophyceae"
+                },
+                {
+                    "id": 6,
+                    "phylum": "Coleochaetophyceae"
+                },
+                {
+                    "id": 7,
+                    "phylum": "Zygnematophyceae"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "division": "Land Plants",
+            "hdes": "The shift from water to land required major adaptations, leading to the emergence of true land plants. Cuticles evolved to prevent water loss, while stomata enabled gas exchange. Alternation of generations became more complex, with a dominant sporophyte in most lineages. Nonvascular plants retained a dominant gametophyte, while vascular plants developed specialized tissues for water transport. Over time, the dependency on water for reproduction decreased, paving the way for seeds and pollen-based fertilization.",
+            "children": [
+                {
+                    "id": 9,
+                    "order": "Nonvascular Plants",
+                    "cdes": "Nonvascular plants, including mosses, liverworts, and hornworts, represent the earliest land plants. They lack vascular tissue, meaning they rely on diffusion and osmosis for water and nutrient transport, which limits their size. They exhibit a dominant gametophyte stage in their lifecycle, with the sporophyte being nutritionally dependent. These plants thrive in moist environments and reproduce via spores, requiring water for sperm motility. Unique adaptations, such as desiccation tolerance in mosses, allow survival in extreme habitats. Despite their simplicity, nonvascular plants play critical ecological roles, like preventing soil erosion and facilitating primary succession.",
+                    "children": [
+                        {
+                            "id": 10,
+                            "phylum": "Hepaticophyta"
+                        },
+                        {
+                            "id": 11,
+                            "phylum": "Bryophyta"
+                        },
+                        {
+                            "id": 12,
+                            "phylum": "Anthocerotophyta"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "division": "Vascular Plants",
+                    "hdes": "The development of vascular tissue (xylem and phloem) allowed plants to grow larger and occupy diverse environments. Early vascular plants had simple conducting cells, while later ones evolved lignin-reinforced xylem for structural support. This adaptation enabled trees to emerge, drastically altering terrestrial ecosystems. While seedless vascular plants still relied on spores, later vascular plants developed seeds, reducing their dependence on moist environments.",
+                    "children": [
+                        {
+                            "id": 14,
+                            "order": "Seedless Plants",
+                            "cdes": "Seedless vascular plants, including ferns, horsetails, and lycophytes, mark an evolutionary step toward complexity with the development of vascular tissues—xylem and phloem—allowing efficient transport of water and nutrients. This innovation enabled them to grow much larger than nonvascular plants. They have a dominant sporophyte generation, with free-living gametophytes that require water for fertilization. Ferns, for example, produce spores on specialized structures called sori, while lycophytes, the oldest vascular plants, exhibit unique microphyll leaves. Though seedless, these plants played a major role in forming Earth's coal deposits during the Carboniferous period.",
+                            "children": [
+                                {
+                                    "id": 15,
+                                    "phylum": "Lycophyta"
+                                },
+                                {
+                                    "id": 16,
+                                    "phylum": "Psilotophyta"
+                                },
+                                {
+                                    "id": 17,
+                                    "phylum": "Pteridophyta"
+                                },
+                                {
+                                    "id": 18,
+                                    "phylum": "Equisetophyta"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 19,
+                            "division": "Seed Plants",
+                            "hdes": "Seed plants introduced a major reproductive shift, replacing spores with seeds containing a protective coat, stored nutrients, and a dormant embryo. This allowed them to spread into drier environments and diversify rapidly. Pollen eliminated the need for water in fertilization, enabling wind and animal-mediated pollination. Gymnosperms represent the earliest seed plants, while angiosperms refined seed dispersal through fruits and co-evolution with pollinators.",
+                            "children": [
+                                {
+                                    "id": 20,
+                                    "order": "Gymnosperms",
+                                    "cdes": "Gymnosperms, meaning 'naked seeds,' include conifers, cycads, ginkgos, and gnetophytes. They evolved seeds that develop on exposed cones rather than enclosed within fruit, offering better protection and dispersal than spores. Gymnosperms have a dominant sporophyte generation and produce pollen, enabling fertilization without water. Most, like pines, have needle-like leaves adapted for cold and dry environments, reducing water loss. Some species, such as the ancient Ginkgo biloba, have remained largely unchanged for millions of years. Gymnosperms dominated the Mesozoic era, providing food for dinosaurs before being overshadowed by angiosperms.",
+                                    "children": [
+                                        {
+                                            "id": 21,
+                                            "phylum": "Ginkgophyta"
+                                        },
+                                        {
+                                            "id": 22,
+                                            "phylum": "Cycadophyta"
+                                        },
+                                        {
+                                            "id": 23,
+                                            "phylum": "Cupressophyta"
+                                        },
+                                        {
+                                            "id": 24,
+                                            "phylum": "Pinophyta"
+                                        },
+                                        {
+                                            "id": 25,
+                                            "phylum": "Gnetophyta"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 26,
+                                    "order": "Angiosperms",
+                                    "division": "Flowering Plants",
+                                    "cdes": "Angiosperms are the most diverse and ecologically dominant plant group, distinguished by flowers and fruits that enhance reproductive success. Their lifecycle is characterized by a dominant sporophyte, reduced gametophytes, and double fertilization, which forms both an embryo and nutrient-rich endosperm. Flowers attract pollinators, promoting cross-pollination, while fruits aid in seed dispersal. They exhibit a vast range of adaptations, from rapid growth rates to specialized relationships with animals. Angiosperms include everything from tiny duckweed to massive oak trees, shaping global ecosystems and human agriculture.",
+                                    "hdes": "Flowering plants evolved flowers to attract pollinators and fruit to aid seed dispersal, leading to unparalleled success. Their vascular systems became more efficient, and their reproductive strategies more specialized. Double fertilization, unique to angiosperms, results in an embryo and a nutrient-rich endosperm, boosting seed viability. These innovations allowed them to outcompete gymnosperms in many ecosystems, leading to their current dominance.",
+                                    "children": [
+                                        {
+                                            "id": 27,
+                                            "phylum": "Anthophyta"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

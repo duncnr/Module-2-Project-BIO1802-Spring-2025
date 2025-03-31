@@ -1,0 +1,24 @@
+#tree {
+    margin-top: -2px;
+}
+
+/* #container {
+    border: 5px solid #5c5c5c;
+    box-sizing: border-box;
+} */
+
+.header {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif
+}
+
+.subsection {
+    background-color: #c1e0c4;
+    box-sizing: border-box;
+}
+
+.section {
+    background-color: #9e9e9e;
+    border: 10px solid #5c5c5c;
+    box-sizing: border-box;
+}
